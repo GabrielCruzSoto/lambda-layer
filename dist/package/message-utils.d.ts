@@ -1,1 +1,3 @@
-export declare const messageLogs: () => void;
+export declare class MessageUtils {
+    log(): void;
+}

@@ -1,3 +1,6 @@
-export const messageLogs = ()=>{
-    console.log('message')
+export class MessageUtils{
+
+    log(){
+        console.log("message from layer")
+    }
 }
