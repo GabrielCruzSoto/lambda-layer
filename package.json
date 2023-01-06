@@ -21,6 +21,7 @@
   "dependencies": {
     "aws-cdk-lib": "^2.59.0",
     "constructs": "^10.1.211",
+    "esbuild": "^0.16.14",
     "lambda-layer": "github:GabrielCruzSoto/lambda-layer",
     "source-map-support": "^0.5.21"
   }
